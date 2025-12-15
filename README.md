@@ -40,4 +40,4 @@ This project demonstrates:
 - Robotics & IoT integration
 
 ## Author
-IoT & Embedded Systems Portfolio
+Tisa Anggraini
